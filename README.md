@@ -16,7 +16,7 @@ The project follows a complete end-to-end Machine Learning workflow including:
 - handling imbalanced data
 - model training
 - evaluation
-- deployment using Streamlit & Hugging Face Spaces
+-
 
 ## 🎯 Why I Chose This Project
 
@@ -69,8 +69,7 @@ The objective of this project is to:
 - Seaborn
 - Scikit-learn
 - Imbalanced-learn (SMOTE)
-- Streamlit
-- Hugging Face Spaces
+
 
 - ### 📂 Dataset Information
 
@@ -111,8 +110,7 @@ Evaluated performance using:
 - Confusion Matrix
 - ROC Curve
 
-## 7️⃣ Deployment
-Deployed the trained model using Streamlit on Hugging Face Spaces.
+
 
 # 🤖 Best Performing Model
 
